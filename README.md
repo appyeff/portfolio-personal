@@ -2,6 +2,6 @@
 ![](Docs/screenshot.PNG)
 
 # Portfolio
-😊 My portfolio
+mi portafolio en github page
 
 > Watch Netlify deploy [here](https://app-portfolio.netlify.com/ "Amazing Raman")
